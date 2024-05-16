@@ -1,5 +1,6 @@
 //npx json-server --watch data/db.json --port 8000
 //npm start
+//amplify publish
 
 import Navbar from './Navbar';
 import Home from './Home';

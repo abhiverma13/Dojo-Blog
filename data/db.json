@@ -4,19 +4,25 @@
       "title": "The First Blog",
       "body": "Pastel blue is a pale blue shade with the hex code #A7C7E7, slightly redder and more muted than the very similar baby blue. Pastel blue, along with the rest of the pastel palette, was a characterizing color of both Rococo and Impressionist art.",
       "author": "Tavisha",
-      "id": 1
+      "id": "1"
     },
     {
       "title": "Lets get Litty!",
       "body": "A party is a gathering of people who have been invited by a host for the purposes of socializing, conversation, recreation, or as part of a festival or other commemoration or celebration of a special occasion. A party will often feature food and beverages, and often conversation, music, dancing, or other forms of entertainment.",
       "author": "Abhi",
-      "id": 2
+      "id": "2"
     },
     {
       "title": "Lunch Time",
       "body": "Just had a fire lunch it was amazing. We had pizza, garlic bread and cheesecake.",
       "author": "Abhi",
-      "id": 3
+      "id": "3"
+    },
+    {
+      "id": "a4bf",
+      "title": "new blog",
+      "body": "wow",
+      "author": "a.verma1304@gmail.com"
     }
   ]
 }

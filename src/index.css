@@ -28,6 +28,17 @@
 .navbar a:hover {
   color: #A7C7E7;
 }
+.navbar button {
+  margin-left: 16px;
+  text-decoration: none;
+  border: none;
+  background-color: transparent;
+  padding: 6px;
+}
+.navbar button:hover {
+  color: #A7C7E7;
+  cursor: pointer;
+}
 .content {
   max-width: 600px;
   margin: 40px auto;

@@ -1,0 +1,29 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-thevermablogs-staging-112bc-authRole",
+      "UnauthRoleArn": "arn:aws:iam::654654376557:role/amplify-thevermablogs-staging-112bc-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::654654376557:role/amplify-thevermablogs-staging-112bc-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-thevermablogs-staging-112bc-deployment",
+      "UnauthRoleName": "amplify-thevermablogs-staging-112bc-unauthRole",
+      "StackName": "amplify-thevermablogs-staging-112bc",
+      "StackId": "arn:aws:cloudformation:us-west-2:654654376557:stack/amplify-thevermablogs-staging-112bc/129b6e20-12ed-11ef-a504-028ba4e72aa9",
+      "AmplifyAppId": "d2ib0xug0pbgxr"
+    },
+    "categories": {
+      "auth": {
+        "TheVermaBlogs": {}
+      },
+      "api": {
+        "thevermablogs": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2ib0xug0pbgxr",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
